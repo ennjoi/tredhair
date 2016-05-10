@@ -53,7 +53,11 @@ nav.navbar-inverse {
   background: rgba(0, 0, 0, 0.5);
   border: none;
   font-family: Escafina, sans-serif;
-  font-size: 20px;
+  font-size: 25px;
+}
+
+.navbar-right {
+  padding-top: 10px;
 }
 
 .testimonial {
@@ -99,7 +103,7 @@ h2 + p {
 }
 
 #team {
-  background: url('computer.jpg');
+  background: url('render.jpg');
   background-size: cover;
   color: white;
   text-align: center;
